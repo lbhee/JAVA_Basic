@@ -1,0 +1,2 @@
+word = C:\Temp2\a.txt
+word = C:\Temp2\file.txt
